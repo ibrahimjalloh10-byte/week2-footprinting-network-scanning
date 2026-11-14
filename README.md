@@ -29,10 +29,10 @@ nmap -sn 10.188.65.0/24   # run via Zenmap's Ping Scan profile
 ![Zenmap host details](screenshots/task6-hostdetails.png)
 *Host Details for 10.188.65.5, showing its MAC address.*
 
-![Zenmap topology diagram (PDF)](screenshots/task7-topology.pdf)
+![Zenmap topology legend](screenshots/task7-legend.png)
 *Zenmap Topology Legend, reviewed before interpreting the network map.*
 
-![Zenmap topology diagram](screenshots/task7-topology.png)
+![Zenmap topology diagram (PDF)](screenshots/task7-topology.pdf)
 *Network topology for 10.188.65.0/24 — localhost connected to the two discovered hosts.*
 
 ## Full report
